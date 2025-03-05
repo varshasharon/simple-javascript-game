@@ -2,13 +2,14 @@
 Welcome to Jump Dash, a fun and interactive jump game built using HTML, CSS, and JavaScript! 🎮🚀
 
 ## 🎮 How to Play
-Press the Spacebar to make the character jump.
 
-Avoid colliding with the moving obstacles.
+• Press the Spacebar to make the character jump.
 
-If you hit an obstacle, you lose!
+• Avoid colliding with the moving obstacles.
 
-Try to survive as long as possible and challenge yourself to improve your reaction time.
+• If you hit an obstacle, you lose!
+
+• Try to survive as long as possible and challenge yourself to improve your reaction time.
 
 ## ✨ Features
 ✅ Smooth jump animations
@@ -21,21 +22,21 @@ Try to survive as long as possible and challenge yourself to improve your reacti
 
 ## 🛠️ Technologies Used
 
-HTML for the game structure
+• HTML for the game structure
 
-CSS for styling and animations
+• CSS for styling and animations
 
-JavaScript for game logic
+• JavaScript for game logic
 
 ## 💡 Future Improvements
 
-Add a score counter.
+• Add a score counter.
 
-Implement multiple difficulty levels.
+• Implement multiple difficulty levels.
 
-Add sound effects for better engagement.
+• Add sound effects for better engagement.
 
-Create a mobile-friendly version.
+• Create a mobile-friendly version.
 
 
 ## Take a look at the visuals of the game!
