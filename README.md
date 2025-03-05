@@ -1,6 +1,8 @@
 # 🏆 Pixel Leaps - A Simple Jump Game
 Welcome to Jump Dash, a fun and interactive jump game built using HTML, CSS, and JavaScript! 🎮🚀
 
+### Link to the game: https://varshasharon.github.io/simple-javascript-game/
+
 ## 🎮 How to Play
 
 • Press the Spacebar to make the character jump.
